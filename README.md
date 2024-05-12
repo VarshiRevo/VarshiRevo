@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I'm Varshiga P S, your friendly neighborhood Full Stack 3D Web Developer. 🌐💻 I'm all about merging my creative side with lines of code to craft mind-blowing online experiences that are out of this world! 🚀<br><br>Now, here's a little fun fact about me: When I'm not diving deep into the digital realm, you'll catch me perfecting the art of 3D origami. 🎨✨ Yep, I like to fold paper into intricate shapes just as much as I love crafting immersive online worlds. It's all about pushing boundaries and making the digital universe more captivating. 💫🌟<br><br>So, get ready to join me on this exciting journey where I code the future, one exciting project at a time! 💪💡
 
-
+:computer: &nbsp;Main tech knowledge
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Varshiga P S) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Varshiga P S) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Varshiga P S) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Varshiga P S) 
 
