@@ -18,7 +18,7 @@ So, get ready to join me on this exciting journey where I code the future, one e
   <a href="mailto:varshigaps04.ai@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/Varshiga P S"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varshiga-p-s/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   
   </p>
 
