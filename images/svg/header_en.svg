@@ -21,7 +21,7 @@ svg {
 }
 
 rect.headerRect {
-  fill: black;
+  fill: none;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
@@ -32,11 +32,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #44e3b9;
 }
 
 .wave:hover {
-  fill: #5457ff;
+  fill: #4bc8a3;
 }
 
 .drop:hover {
@@ -44,10 +44,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #44e3b4;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: #4bc8a3;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -180,7 +180,7 @@ g.typingUnderline rect {
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Courier New" font-size=".22em" fill="white"
+<text font-family="Courier New" font-size=".22em" fill="black"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
       VARSHIGA P S
@@ -198,12 +198,12 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
+<!-- <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
     "QUOTE"
   </textPath>
-</text>
+</text> -->
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
